@@ -1,5 +1,4 @@
 "use client";
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -32,7 +31,7 @@ export default function Home() {
       {/* About Section */}
       <section id="about" className="max-w-2xl mx-auto py-16 px-4">
         <h3 className="text-2xl font-semibold mb-4">About Me</h3>
-        <p className="text-lg leading-relaxed">I'm Andrew Tobiko, a software developer with a passion for creating robust and scalable web applications. I enjoy working with modern technologies and am always eager to learn and take on new challenges.</p>
+        <p className="text-lg leading-relaxed">I&apos;m Andrew Tobiko, a software developer with a passion for creating robust and scalable web applications. I enjoy working with modern technologies and am always eager to learn and take on new challenges.</p>
       </section>
 
       {/* Projects Section */}
